@@ -37,7 +37,7 @@ def Schedule_url(update: Update, context: CallbackContext):
 		"https://yummyanime.org/rasspisanie-anime.html")
 def StudyAnimeLofi_url(update: Update, context: CallbackContext):
 	update.message.reply_text(
-		"https://www.youtube.com/watch?v=WDXPJWIgX-o")
+		"https://www.youtube.com/c/nostalgicmusic/featured")
 
 
 
